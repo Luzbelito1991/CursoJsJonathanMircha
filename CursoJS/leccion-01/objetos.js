@@ -14,7 +14,7 @@ const usuario = {
     },
 
     saludar: function () {
-        console.log("Hola")
+        console.log("Hola gente manija")
     },
 
     decirNombre: function(){
@@ -24,6 +24,7 @@ const usuario = {
 }
 
 usuario.decirNombre();
+usuario.saludar();
 //console.log(usuario);
 
 //console.log(usuario["nombre"]);
